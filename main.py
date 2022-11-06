@@ -18,7 +18,7 @@ mixer.music.load("background.wav")
 mixer.music.play(-1)
 
 # Caption and Icon
-pygame.display.set_caption("Space Invader")
+pygame.display.set_caption("Save The Village")
 icon = pygame.image.load('golem.png')
 pygame.display.set_icon(icon)
 
